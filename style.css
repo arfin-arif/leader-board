@@ -9,6 +9,11 @@ body{
 .top-player img{
     width: 40px;
 }
+.top-player {
+    position: relative;
+  
+    padding-top: 100px;
+}
 main{
     width: 870px;
     background-color: #FFFFFF;
